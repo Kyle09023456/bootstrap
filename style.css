@@ -1,0 +1,49 @@
+/*
+=================================================
+GLOBAL CHANGES/MISC.
+=================================================
+*/
+h1,h2,h3,h4,h5,h6{
+    font-weight:900;
+}
+
+.to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    font-size: 40px;
+  }
+
+/*
+=================================================
+HERO SECTION
+=================================================
+*/
+.hero-section {
+    background-image: url("img/mustang.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .hero-section h1 {
+    color: #000;
+    font-size: 56px;
+  }
+  
+  .hero-section .lead {
+    color: #fff;
+    font-weight: 300;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.75);
+    font-size: 22px;
+  }
+
+  /*
+=================================================
+VARIOUS SECTIONs
+=================================================
+*/
+.presentation iframe {
+width: 100%;
+max-width: 856px;
+height: 518px;
+}
