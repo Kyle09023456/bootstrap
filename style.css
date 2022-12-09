@@ -47,3 +47,7 @@ width: 100%;
 max-width: 856px;
 height: 518px;
 }
+
+.maps iframe{
+  width:100%;
+}
